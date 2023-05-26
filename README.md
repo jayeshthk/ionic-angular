@@ -1,5 +1,5 @@
 # ionic-my-asset-buddy
-ionic login page for myassetbuddy. Further development coming soon...
+Further development coming soon...
 
 # Commands
 - `git clone https://github.com/jayeshthk/ionic-my-asset-buddy.git`
